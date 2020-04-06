@@ -1,1 +1,1 @@
-# react-native-health-ki-example
+# react-native-health-kit-example
